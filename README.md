@@ -1,2 +1,2 @@
 # test
-testing for e0 tcs
+testing repository for git commands
